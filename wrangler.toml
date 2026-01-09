@@ -1,0 +1,7 @@
+name = "advent-calendar"
+account_id = "1ca3f69c41844f3619a59ea13263c697"
+compatibility_date = "2026-01-09"
+
+# Build config
+[build]
+command = "echo 'no build yet'"
